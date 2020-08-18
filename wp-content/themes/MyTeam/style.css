@@ -1,0 +1,51 @@
+/*
+Theme Name: My Team
+Theme URI: https://notjustgood.co.uk/
+Description: Custom
+Author: Factory Pattern
+Author URI: https://notjustgood.co.uk/
+Description: The Acadata theme for WordPress.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: https://notjustgood.co.uk/
+Tags: black, brown, orange, tan, white, yellow, light, one-column, two-columns, right-sidebar, flexible-width, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready
+Text Domain: My Team
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body{
+    background-color: rgb(245, 241, 241);
+}
+.bg-light{
+    background-color: white !important;
+}
+
+.title-nav{
+    margin-left: 90px;
+}
+link-btn a{
+    color: white;
+}
+.comment{
+
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+footer {
+
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+  }
+
+.jumbotron{
+    background-color: white !important;
+}
